@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GameDemo",
+            "request": "launch",
+            "mainClass": "GameDemo",
+            "projectName": "Text-based-game_4b326a9e"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameDemo",
+            "request": "launch",
+            "mainClass": "GameDemo",
+            "projectName": "HW6_cd4c2c59"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GameDemo<HW6_2d1bf1d8>",
+            "request": "launch",
+            "mainClass": "GameDemo",
+            "projectName": "HW6_2d1bf1d8"
+        }
+    ]
+}
